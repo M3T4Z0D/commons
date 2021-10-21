@@ -1,7 +1,4 @@
 class Commons {
-  constructor() {
-    return 'ok';
-  }
 
   static getRandom() {
     return Math.random();
